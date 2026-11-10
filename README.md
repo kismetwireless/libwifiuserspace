@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Development has now moved to - and been far surpassed by - [userspace-wifi](https://github.com/kismetwireless/userspace-wifi)
+
 # Libwifiuserspace
 
 A port of Linux kernel Wi-Fi drivers to a userspace library for use with Linux, Mac, and Windows. 
